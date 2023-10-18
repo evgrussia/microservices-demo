@@ -1,0 +1,11 @@
+{
+  "appName": "microservices-demo",
+  "userGivenName": "microservices-demo",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "argocd/dev/apps/microservices-demo/overlays/dev",
+  "srcRepoURL": "https://github.com/evgrussia/microservices-demo.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
