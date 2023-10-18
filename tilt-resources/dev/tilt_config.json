@@ -1,8 +1,8 @@
 {
     "allowed_contexts": [
-        "do-nyc1-microservices-demo-dev"
+        "do-ams3-microservices-demo-dev"
     ],
-    "default_registry": "registry.digitalocean.com/microservices-demo",
+    "default_registry": "registry.digitalocean.com/microservices-demo-evg",
     "environment": "dev",
     "microservices": [
         "cartservice",
