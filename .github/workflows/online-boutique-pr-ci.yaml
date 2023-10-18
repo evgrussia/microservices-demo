@@ -20,7 +20,7 @@ concurrency: pr-ci-dev
 # Global environment variables
 env:
   DOCR_ENDPOINT: "registry.digitalocean.com/microservices-demo-evg"
-  CLUSTER_NAME: "microservices-demo-production"
+  CLUSTER_NAME: "microservices-demo-dev"
   REGION: "ams3"
   K8S_NAMESPACE: "microservices-demo-${{ github.event.pull_request.number }}"
   PROJECT_NAME: "online-boutique"
